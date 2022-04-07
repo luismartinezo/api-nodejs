@@ -1,0 +1,22 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "Api sobre mantenimiento de comentarios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luismartinezo/Api-nodejs.git"
+  },
+  "author": "Luis Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luismartinezo/Api-nodejs/issues"
+  },
+  "homepage": "https://github.com/luismartinezo/Api-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
