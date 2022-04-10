@@ -31,3 +31,7 @@ Con un aplicativo de testeo de servicios como `Postman` o cualquier otro que per
 - Delete `http://localhost:4000/comments/delete/id_commet`: Elimina un comentario por ID, id_comment
 
 - Get `http://localhost:4000/session`: Obtiene la session y numero de visitas
+
+## Test
+
+Correr `npm run test`
